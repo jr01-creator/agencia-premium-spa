@@ -1,0 +1,55 @@
+<div align="center">
+  <p align="center">
+    <img 
+      alt="DIO Education" 
+      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
+      width="100px" 
+    />
+    <h1>Agência Premium - Stellar Tech</h1>
+  </p>
+</div>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
+  <img src="https://img.shields.io/static/v1?label=Nivel&message=Intermediario&color=E94D5F&labelColor=202024" alt="Nivel">
+</p>
+
+<table align="center">
+<thead>
+  <tr>
+    <td>
+        <p align="center">Developer</p>
+        <img src="https://github.com/jr01-creator.png" width="115px" alt="Seu Avatar"><br>
+    </td>
+    <td colspan="3">
+    <p>🚀 Projeto desenvolvido com auxílio de IA (Lovable).
+      <br/>
+      🌟 Interface Responsiva | UI/UX Moderna | React + Tailwind
+      <br/>
+      🔗 <b>Link do Projeto:</b> <a href="https://stellar-tech-launch.lovable.app/">Acessar Site Online</a>
+    </p>
+    </td>
+  </tr>
+</thead>
+</table>
+
+<br/>
+
+## 💻 Sobre o Projeto
+
+Uma SPA premium para agências, com design dark e violeta. O foco foi criar uma experiência fluida e visualmente impactante.
+
+### 📸 Preview do Site
+> **DICA:** Após subir sua foto no GitHub, coloque o link dela aqui embaixo:
+![Screenshot do Projeto](LINK_DA_SUA_FOTO_AQUI)
+
+## 🛠️ Tecnologias e Habilidades
+- **React** | SPA e Componentização
+- **Tailwind CSS** | Estilização Customizada
+- **Lovable AI** | Prototipagem e Geração de Código
+- **Git/GitHub** | Versionamento e Documentação
+
+## 🎯 Objetivos
+- Criar uma interface profissional em tempo recorde.
+- Aplicar conceitos de design responsivo e acessibilidade.
+
+---
